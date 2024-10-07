@@ -4,7 +4,7 @@ public class MadLibs
 {
     public static void main(String[] args) 
     {
-        String madLibs = "I went to the animal <noun>, the <plural_noun> and the <number> beasts were there.";
+        String madLibs = "Dear <noun>: I formally <verb> you to the <noun>.";
 
         //Scanners
         Scanner scan1 = new Scanner(System.in);
